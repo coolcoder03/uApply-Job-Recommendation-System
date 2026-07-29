@@ -3,7 +3,6 @@ import google.generativeai as genai
 import os
 import PyPDF2 as pdf
 import spacy
-
 from dotenv import load_dotenv
 
 load_dotenv()
